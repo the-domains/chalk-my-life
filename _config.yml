@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.9017185
+color:
+  saturation: 0.1871896
+  lightness: 0.1662152
+  brandStrength: 1
+  brandColors:
+    - '#6DEEB4'
+    - '#ACB3B2'
+    - '#676B6B'
+    - '#1D1E1E'
+    - '#57BD8F'
+  rhythmicContrast: 0.4727076
+name: Chalk My Life
